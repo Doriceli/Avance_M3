@@ -14,7 +14,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 					+ "como mecanismo de persistencia MongoDB",
 			contact = @Contact(
 				name = "Doriceli Ixtla Montelongo", 
-				url = "https://www.unam.mx/", 
+				url = "https://www.unam.mx", 
 			email = "doriceli.ixtla@gmail.com")))
 public class OpenApiConfig {
 
